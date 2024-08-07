@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Program Data Kelompok";
+	cout << "Kelompok Blay";
 	cin.ignore();
 	cout << endl;
 	cout << "NIS" << endl;
